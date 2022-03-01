@@ -1,6 +1,7 @@
 # Infamed
 Pequeño ERP en Salud desarrollado en C#. 
-##Requerimientos:
+
+## Requerimientos:
  - Visual Studio 2017. 
  - MySQL 
 
