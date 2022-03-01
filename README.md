@@ -3,5 +3,5 @@ Pequeño ERP en Salud desarrollado en C#.
 
 ## Requerimientos:
  - Visual Studio 2017. 
- - MySQL 
+ - Motor de Base de Datos: MySQL 
 
